@@ -1,0 +1,53 @@
+# Cross-fade
+
+    # Manipulate audio with an simple and easy high level interface.
+pydub
+
+
+    # A complete, cross-platform solution to record, convert and stream audio and video.
+
+    # Python-ffmpeg is a python binding for FFmpeg which provides sync and async APIs.
+ffmpeg-python
+
+
+# beat matching 
+
+    # It is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
+librosa
+
+    # The fundamental package for scientific computing with Python
+numpy
+
+    # SciPy (Scientific Python) is an open-source scientific computing library built on top of NumPy. It extends NumPy’s capabilities by providing optimized algorithms and specialized data structures for tasks like optimization, integration, interpolation, statistics, signal processing, and linear algebra. While NumPy focuses on array operations, SciPy offers domain-specific functionality essential for engineers, analysts, and scientists.
+scipy
+
+# Front-end
+
+    # A faster way to build and share data apps
+streamlit
+
+# Software
+
+    # FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints.
+fastapi
+
+    # Uvicorn is an ASGI web server implementation for Python.
+uvicorn[standard]
+
+# python-multipart is a Python library for parsing multipart/form-data — the encoding type used for file uploads and form submissions in HTTP.It’s often used in frameworks like FastAPI and Starlette to handle file uploads efficiently.
+python-multipart
+
+    #LoadingImages
+pillow
+
+    #Handling Requests
+requests
+
+    # aiofiles is a Python library that allows you to perform asynchronous file I/O using asyncio.It’s useful when you want to read/write files without blocking the event loop — for example, in web servers or concurrent applications.
+aiofiles
+
+# Experimental Notebook
+ipykernel
+
+# Plotting
+matplotlib

@@ -1,0 +1,13 @@
+"""Health-check endpoint for readiness/liveness verification."""
+
+from __future__ import annotations
+
+from fastapi import APIRouter
+
+router = APIRouter(prefix="/health", tags=["health"])
+
+
+@router.get("", summary="Health check")
+def health_check() -> dict[str, str]:
+    """Return a lightweight service health response."""
+    return {"status": "ok"}

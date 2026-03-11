@@ -1,0 +1,39 @@
+Purpose of this project :
+
+create a software app that when uloaded audio tracks .It should
+
+User Functional Requirements:
+
+Feature1 :
+create a mix tape of those audio tracks with fade-out, fade-in features for adjacent songs . 
+type trasistion in milliseconds
+create mix tape of audio tracks
+
+Feature2:
+Create description of the audio tracks with
+name of the song and start time of that mix tape 
+
+Feature 3: 
+Convert mixtape into video using static image as video for the duration of the track
+
+
+Tech stack:
+
+Front-End - Streamlit
+
+API - Fastapi
+
+Backend-Python and folder directory to store audio tracks , images , mixtape audio track and video track
+
+
+Project Structure:
+Modular
+create a modular folder structure in the current project. Ignore expereiment_notebook folder as part of project structre  as this is only to validate logic of the features
+
+Project Logic Reference:
+
+Logic has been coded in the file experiment_notebooks\logic.py  that should help with building ui on top these logic as features 
+
+
+
+

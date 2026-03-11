@@ -5,3 +5,14 @@
 # Project Files
 Resource Files-20260306T111546Z-1-001
 
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local runtime outputs
+data/uploads/
+data/outputs/
+data/temp/
+.env
+
