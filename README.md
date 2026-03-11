@@ -220,3 +220,22 @@ python scripts/smoke_test_pipeline.py
 - Job status returns `failed`:
   - Check API terminal logs for underlying processing error.
   - Common issues: unsupported audio format, corrupt media, missing ffmpeg.
+
+
+- Home page
+
+![alt text](docs\image.png)
+
+- Uploade page
+
+![alt text](docs\image-1.png)
+
+- Default configuration 
+
+![alt text](docs\image-2.png)
+
+- Generate audio & video track
+
+- Results section to download tracks and description
+
+![alt text](docs\image-3.png)
