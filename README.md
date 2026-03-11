@@ -224,18 +224,18 @@ python scripts/smoke_test_pipeline.py
 
 - Home page
 
-![alt text](docs\image.png)
+![alt text](docs/image.png)
 
 - Uploade page
 
-![alt text](docs\image-1.png)
+![alt text](docs/image-1.png)
 
 - Default configuration 
 
-![alt text](docs\image-2.png)
+![alt text](docs/image-2.png)
 
 - Generate audio & video track
 
 - Results section to download tracks and description
 
-![alt text](docs\image-3.png)
+![alt text](docs/image-3.png)
